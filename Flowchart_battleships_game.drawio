@@ -1,77 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T09:52:49.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="1ro893zksu28BQMit0zp" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T10:08:02.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sDOvoBLWWXdavVrBybSm" version="16.6.2" type="github">
   <diagram id="cik4pUAZ0DND3USEiahB" name="Page-1">
-    <mxGraphModel dx="946" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-1" target="Z9-XJ0bZTqutM6zoiM_b-3">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-1" target="Z9-XJ0bZTqutM6zoiM_b-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-1" value="Starts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-1" value="Starts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-3" target="Z9-XJ0bZTqutM6zoiM_b-4">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-3" target="Z9-XJ0bZTqutM6zoiM_b-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-3" value="P1 places his battleships on the grid" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-3" value="P1 places his battleships on the grid" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-4" target="Z9-XJ0bZTqutM6zoiM_b-5">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-4" target="Z9-XJ0bZTqutM6zoiM_b-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-4" value="P2 places his battleships on the grid" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-4" value="P2 places his battleships on the grid" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-5" target="Z9-XJ0bZTqutM6zoiM_b-6">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-5" target="Z9-XJ0bZTqutM6zoiM_b-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-5" value="P1 instructs strikes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-5" value="P1 instructs strikes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-6" target="Z9-XJ0bZTqutM6zoiM_b-7">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-6" target="Z9-XJ0bZTqutM6zoiM_b-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-6" target="Z9-XJ0bZTqutM6zoiM_b-41">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-6" target="Z9-XJ0bZTqutM6zoiM_b-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-6" value="P1 hits one of P2&#39;s battleships?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-6" value="P1 hits one of P2&#39;s battleships?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-7" target="Z9-XJ0bZTqutM6zoiM_b-10">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-7" target="Z9-XJ0bZTqutM6zoiM_b-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-7" target="Z9-XJ0bZTqutM6zoiM_b-9">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-7" target="Z9-XJ0bZTqutM6zoiM_b-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-7" value="P1 sinks one of P2&#39;s battleships?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-7" value="P1 sinks one of P2&#39;s battleships?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="200" y="480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-9" target="Z9-XJ0bZTqutM6zoiM_b-5">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-9" target="Z9-XJ0bZTqutM6zoiM_b-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-9" value="Message &quot;Battleship hit!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-9" value="Message &quot;Battleship hit!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="100" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-10" target="Z9-XJ0bZTqutM6zoiM_b-22">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-10" target="Z9-XJ0bZTqutM6zoiM_b-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-10" value="Message &quot;Battleship sunk!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-10" value="Message &quot;Battleship sunk!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="80" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-12" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-12" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-19" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-19" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-22" target="Z9-XJ0bZTqutM6zoiM_b-24">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-22" target="Z9-XJ0bZTqutM6zoiM_b-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-22" target="Z9-XJ0bZTqutM6zoiM_b-5">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-22" target="Z9-XJ0bZTqutM6zoiM_b-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="40" y="760" />
@@ -79,32 +79,130 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-22" value="All P2&#39;s battleships sunk?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-22" value="All P2&#39;s battleships sunk?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="100" y="720" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-24" target="Z9-XJ0bZTqutM6zoiM_b-25">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-24" target="Z9-XJ0bZTqutM6zoiM_b-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-24" value="Message &quot;P1 is winner!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-24" value="Message &quot;P1 is winner!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="200" y="840" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-25" value="Ends" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="360" y="920" width="120" height="40" as="geometry" />
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-25" value="Ends" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1030" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-28" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-28" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-30" value="Faux" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-30" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-35" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-35" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="440" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-41" value="Message &quot;Missed!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9-XJ0bZTqutM6zoiM_b-41" target="w-NMiRwozyTj5YcVV4Kx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-41" value="Message &quot;Missed!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="520" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-43" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z9-XJ0bZTqutM6zoiM_b-43" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NMiRwozyTj5YcVV4Kx-1" target="w-NMiRwozyTj5YcVV4Kx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-1" value="P2 instructs strikes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="585" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NMiRwozyTj5YcVV4Kx-3" target="w-NMiRwozyTj5YcVV4Kx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NMiRwozyTj5YcVV4Kx-3" target="w-NMiRwozyTj5YcVV4Kx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-3" value="P2 hits one of P1&#39;s battleships?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NMiRwozyTj5YcVV4Kx-5" target="w-NMiRwozyTj5YcVV4Kx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NMiRwozyTj5YcVV4Kx-5" target="w-NMiRwozyTj5YcVV4Kx-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-5" value="P2 sinks one of P1&#39;s battleships?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-7" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NMiRwozyTj5YcVV4Kx-8" target="Z9-XJ0bZTqutM6zoiM_b-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="800" />
+              <mxPoint x="780" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-8" value="Message &quot;Missed!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-10" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w-NMiRwozyTj5YcVV4Kx-11" target="w-NMiRwozyTj5YcVV4Kx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-11" value="Message &quot;Battleship sunk!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="510" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NMiRwozyTj5YcVV4Kx-13" target="w-NMiRwozyTj5YcVV4Kx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="w-NMiRwozyTj5YcVV4Kx-13" target="w-NMiRwozyTj5YcVV4Kx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="960" />
+              <mxPoint x="330" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-13" value="All P1&#39;s battleships sunk?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="570" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NMiRwozyTj5YcVV4Kx-15" target="Z9-XJ0bZTqutM6zoiM_b-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-15" value="Message &quot;P1 is winner!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1050" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-17" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-21" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-25" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-NMiRwozyTj5YcVV4Kx-26" target="w-NMiRwozyTj5YcVV4Kx-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="645" />
+              <mxPoint x="520" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-26" value="Message &quot;Battleship hit!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="354" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-NMiRwozyTj5YcVV4Kx-29" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="740" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
