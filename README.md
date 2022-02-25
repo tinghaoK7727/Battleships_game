@@ -17,7 +17,7 @@ We build a battleships game.
 The computer generates a battleships grid and the user must find and sink all battleships by inputing the cells to hit!
 
 ## Rules
-Briefly describe the rules of the game.
+Two players play against each other on a 10x10 diagram. Each person has 5 boats of various sizes (length: 2, 3, 3, 4, 5) and has the right to freely place the boats on the diagram. Two players take turns placing bombs on the opponent's diagram in the hope of hitting where the boats have been placed. Once a boat is hit and sinks, the attacking party tracks the success while the other tracks the loss. All blocks of the boat must be hit in order to be qualified as "sunk" and the player who gets the first hit of the boats get to play another round until she/he misses the target. The game continues until anyone of the players has no more remaining boats on the diagram.
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
