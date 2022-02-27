@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Battleships game
-*Eric Martinet & Ting Hao Kao*
+*Eric Martinet & Ting Hao Kao test*
 
 *Data Analytics bootcamp @IronHack Paris, Feb-Apr 22*
 
