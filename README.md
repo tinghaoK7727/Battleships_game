@@ -13,23 +13,32 @@
 - [Links](#links)
 
 ## Project Description
-We build a battleships game.
-The computer generates a battleships grid and the user must find and sink all battleships by inputing the cells to hit!
+We have build the famous "battleship" game in Python.
+This is our first mini-project after a single week of class.
 
 ## Rules
-Two players play against each other on a 10x10 diagram. Each person has 5 boats of various sizes (length: 2, 3, 3, 4, 5) and has the right to freely place the boats on the diagram. Two players take turns placing bombs on the opponent's diagram in the hope of hitting where the boats have been placed. Once a boat is hit and sinks, the attacking party tracks the success while the other tracks the loss. All blocks of the boat must be hit in order to be qualified as "sunk" and the player who gets the first hit of the boats get to play another round until she/he misses the target. The game continues until anyone of the players has no more remaining boats on the diagram.
+Battleship is a 2-player guessing game.
+Your goal is to sink all of your opponent's ships by correctly guessing their locations before your opponent sinks all of yours.
+Our game follows the classic Milton Bradley's rules.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+We:
+* planned the project on JIRA
+* drew the flowchart of the algorithm
+* coded the game with many test & recode iterations
+* presented the game to the class
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+JIRA was our tool of choice for planning the project.
+![JIRA Project planning](./Project_planning.png)
 
-What does your repository look like? Explain your folder and file structure.
+SLACK was used for communicating between team members.
+
+Our repo is organised as follows:
+* [Code](https://github.com/eric-martinet/Battleships_game/tree/main/Code): Source code in Jupyter notebook and Python formats for convenience
+* [Flowchart](https://github.com/eric-martinet/Battleships_game/tree/main/Flowchart): Algorithm's flowchart in drawio and jpg formats
+* [Presentation](https://github.com/eric-martinet/Battleships_game/tree/main/Presentation): Powerpoint presentation made to the class
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Game's repository](https://github.com/eric-martinet/Battleships_game/)  
+For more information on the game: https://en.wikipedia.org/wiki/Battleship_(game).
