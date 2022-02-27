@@ -23,20 +23,21 @@ Our game follows the classic Milton Bradley's rules.
 
 ## Workflow
 We:
-- planned the project on JIRA
-- drew the flowchart of the algorithm
-- coded the game with many test & recode iterations
-- presented the game to the class
+* planned the project on JIRA
+* drew the flowchart of the algorithm
+* coded the game with many test & recode iterations
+* presented the game to the class
 
 ## Organization
-JIRA was the tool of choice for planning the project.
+JIRA was our tool of choice for planning the project.
+![JIRA Project planning](./Project_planning.png)
 
 SLACK was used for communicating between team members.
 
 Our repo is organised as follows:
-- [Code](https://github.com/eric-martinet/Battleships_game/tree/main/Code): Source code in Jupyter notebook and Python formats for convenience
-- [Flowchart](https://github.com/eric-martinet/Battleships_game/tree/main/Flowchart): Algorithm's flowchart in drawio and jpg formats
-- [Presentation](https://github.com/eric-martinet/Battleships_game/tree/main/Presentation): Powerpoint presentation made to the class
+* [Code](https://github.com/eric-martinet/Battleships_game/tree/main/Code): Source code in Jupyter notebook and Python formats for convenience
+* [Flowchart](https://github.com/eric-martinet/Battleships_game/tree/main/Flowchart): Algorithm's flowchart in drawio and jpg formats
+* [Presentation](https://github.com/eric-martinet/Battleships_game/tree/main/Presentation): Powerpoint presentation made to the class
 
 ## Links
 [Game's repository](https://github.com/eric-martinet/Battleships_game/)  
